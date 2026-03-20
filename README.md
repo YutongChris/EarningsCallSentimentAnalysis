@@ -3,4 +3,8 @@ This project implements a NLP pipeline to quantify sentiment from quarterly earn
 
 Working Pipline: 
 
-collect earnings call transcripts (select sentences) - - collect stocks'5 days closed prices after earnings calls -- merge the data -- DualModalCrossAttn
+collect earnings call transcripts (select sentences) + collect stocks'5 days closed prices after earnings calls
+                                                      |
+                                                merge the data
+                                                       |
+                                                DualModalCrossAttn
