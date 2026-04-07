@@ -1,0 +1,51 @@
+ticker,company_name,sub_sector,exchange,ipo_year,status
+GOOGL,Alphabet Inc.,Large-cap Platform,NASDAQ,2004,Active
+META,Meta Platforms Inc.,Large-cap Platform,NASDAQ,2012,Active
+AMZN,Amazon.com Inc.,Large-cap Platform,NASDAQ,1997,Active
+MSFT,Microsoft Corporation,Large-cap Platform,NASDAQ,1986,Active
+NFLX,Netflix Inc.,Large-cap Platform,NASDAQ,2002,Active
+EBAY,eBay Inc.,Large-cap Platform,NASDAQ,1998,Active
+IAC,IAC Inc.,Large-cap Platform,NASDAQ,1993,Active
+YELP,Yelp Inc.,Large-cap Platform,NYSE,2012,Active
+TRIP,TripAdvisor Inc.,Large-cap Platform,NASDAQ,2011,Active
+EXPE,Expedia Group Inc.,Large-cap Platform,NASDAQ,2005,Active
+CRM,Salesforce Inc.,SaaS / Enterprise Software,NYSE,2004,Active
+NOW,ServiceNow Inc.,SaaS / Enterprise Software,NYSE,2012,Active
+HUBS,HubSpot Inc.,SaaS / Enterprise Software,NYSE,2014,Active
+WDAY,Workday Inc.,SaaS / Enterprise Software,NASDAQ,2012,Active
+VEEV,Veeva Systems Inc.,SaaS / Enterprise Software,NYSE,2013,Active
+NEWR,New Relic Inc.,SaaS / Enterprise Software,NYSE,2014,Acquired 2023
+SPLK,Splunk Inc.,SaaS / Enterprise Software,NASDAQ,2012,Acquired 2024
+ZEN,Zendesk Inc.,SaaS / Enterprise Software,NYSE,2014,Acquired 2022
+AKAM,Akamai Technologies Inc.,SaaS / Enterprise Software,NASDAQ,1999,Active
+QNST,QuinStreet Inc.,SaaS / Enterprise Software,NASDAQ,2010,Active
+TWTR,Twitter Inc.,Social / Content,NYSE,2013,Delisted 2022
+ANGI,Angi Inc.,Social / Content,NASDAQ,2011,Active
+ZNGA,Zynga Inc.,Social / Content,NASDAQ,2011,Acquired 2022
+GRPN,Groupon Inc.,Social / Content,NASDAQ,2011,Active
+P,Pandora Media Inc.,Social / Content,NYSE,2011,Acquired 2019
+MTCH,Match Group Inc.,Social / Content,NASDAQ,2015,Active
+LNKD,LinkedIn Corporation,Social / Content,NYSE,2011,Acquired 2016
+YNDX,Yandex N.V.,Large-cap Platform,NASDAQ,2011,Delisted 2023
+OSTK,Overstock.com Inc.,E-commerce,NASDAQ,2002,Active
+W,Wayfair Inc.,E-commerce,NYSE,2014,Active
+BKNG,Booking Holdings Inc.,E-commerce,NASDAQ,1999,Active
+PRTS,CarParts.com Inc.,E-commerce,NASDAQ,1999,Active
+MELI,MercadoLibre Inc.,E-commerce,NASDAQ,2007,Active
+NILE,Blue Nile Inc.,E-commerce,NASDAQ,2004,Acquired 2017
+AWAY,HomeAway Inc.,E-commerce,NASDAQ,2011,Acquired 2015
+DANG,E-Commerce China Dangdang Inc.,E-commerce,NYSE,2010,Delisted 2016
+OPEN,OpenTable Inc.,E-commerce,NASDAQ,2009,Acquired 2014
+PCLN,Priceline Group (now BKNG),E-commerce,NASDAQ,1999,Merged into BKNG
+PYPL,PayPal Holdings Inc.,Fintech / Payments,NASDAQ,2002,Active
+VRSK,Verisk Analytics Inc.,Fintech / Payments,NASDAQ,2009,Active
+GDOT,Green Dot Corporation,Fintech / Payments,NYSE,2010,Active
+EGOV,NIC Inc.,Fintech / Payments,NASDAQ,1999,Acquired 2021
+QUOT,Quotient Technology Inc.,Ad Tech,NYSE,2014,Acquired 2023
+RUBI,Magnite Inc. (fka Rubicon Project),Ad Tech,NASDAQ,2014,Active
+CRTO,Criteo S.A.,Ad Tech,NASDAQ,2013,Active
+FUEL,Rocket Fuel Inc.,Ad Tech,NASDAQ,2013,Acquired 2017
+VNET,VNET Group Inc.,Internet Infrastructure,NASDAQ,2011,Active
+DMRC,Digimarc Corporation,Internet Infrastructure,NASDAQ,1999,Active
+LLNW,Limelight Networks Inc.,Internet Infrastructure,NASDAQ,2007,Active
+CNQR,Concur Technologies Inc.,SaaS / Enterprise Software,NASDAQ,1998,Acquired 2014
